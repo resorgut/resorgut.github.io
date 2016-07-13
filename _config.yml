@@ -1,17 +1,17 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Res Orgut
 locale:           en_US
 logo:
-url:		
+url:
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Res Orgut
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: Ph.D. Candidate at North Carolina State University
+  email: resorgut@ncsu.edu
   disqus-shortname:
-  twitter: #username
+  twitter: resorgut
   facebook: #username
   google:
     plus: #username
@@ -20,9 +20,9 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: resorgut
   stackoverflow: #123456/username from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: resorgut
   xing: #username
   instagram: #username
   lastfm: #username
